@@ -1,0 +1,11 @@
+﻿using HospitalManagement.Context;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HospitalManagement.Domain
+{
+    public class PrescriptionDomain : BaseContext
+    {
+    }
+}
